@@ -1,0 +1,70 @@
+NATION GAMEMODE!
+
+By Oskar13 & Omletowy;
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+~ Podstawowy silnik 
+   - System logow;
+   - System bledow;
+   - System komunikatow gracza (chat) ;
+   - Obsluga api innych pluginow;
+   - Obsluga scoreboard;
+   - Obsluga nie standarowych nickow;
+-------------------------------------------------------------------   
+            
+~ SYSTEM PRZEDMIOTOW
+    - Rodzaje broni (Topory, Luki, Miecze, Sztylety);
+    - DMG;
+    - Opisy;
+    - Akcje broni (czary);
+  
+ UWAGA:  Wykorzystac MaterialsAPI!
+
+-------------------------------------------------------------------
+   
+ ~ System walki 
+    - Wypowiadanie wojen 
+    - Zaczepki
+    - Zakladanie klanow
+    - Frendly fire
+    
+-------------------------------------------------------------------    
+    
+~ Skile
+  
+  .. do opisania ..   
+   
+   
+ -------------------------------------------------------------------  
+   
+   
+~ RASY
+  - Wykonaæ 4 rasy Czlowiek, Krasnolud, Elf i rasa premium Guardian;
+  
+  Czlowiek: 
+          - Porusza sie szybko;
+          - Wlada mieczami; DMG 3-5; 2 skille; 
+          - Kolor nicku niebieski;
+          - Nacja "brachinowie";
+          - Domyslnie porusza sie po kazdym biomie;
+  Elf:
+      - Zwinny i porusza sie szybko; 
+      - Zwiekszone dmg luku, domyslnie wlada lekkim mieczem;
+      - Kolor nicku zielony;
+      - Potrafi wysoko skakac;
+      - Nacja "Minowie";
+      - Szczegolnie dobrze czuje sie w lasach i biomach zielonych, na pustyni etc traci swoja energie;
+      - Obrazenia dmg luk: 1-3; Obrazenia dmg bron 3-4;
+  Krasnolud:
+           - Porusza sie wolno;
+           - Domysla bron to topory; 
+           - Kolor nicku brazowy;
+           - Nisko skacze;
+           - Domyslne dmg 4-7;
+           - Posiada 3 skile
+           - Dobrze czuje sie w nisko poloznych strefach;
+           - Podczas chodzenia po kamieniu szybkosc chodu zwieksza sie;
+
+ -------------------------------------------------------------------
+             
