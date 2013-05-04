@@ -1,0 +1,9 @@
+name: Nation
+author: Oskar13
+main: pl.Oskar13.Nation.NationMain
+version: 1.0
+
+commands:
+    nation:
+        description: Glowna komenda gamemodu.
+
